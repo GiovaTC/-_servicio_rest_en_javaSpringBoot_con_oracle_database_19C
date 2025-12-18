@@ -7,6 +7,8 @@
 
  <img width="2549" height="1079" alt="image" src="https://github.com/user-attachments/assets/9bf9cd8c-61c5-4797-8060-ad081cca15ae" /> 
 
+ <img width="2553" height="1079" alt="image" src="https://github.com/user-attachments/assets/9aeb99f2-dc36-4253-8cdd-27226829e877" /> 
+
 Solución **completa, profesional y lista para ejecutar en IntelliJ IDEA**, que implementa un **servicio REST empresarial** con persistencia en **Oracle Database 19c** mediante **Stored Procedure**, siguiendo una arquitectura estándar **Controller – Service – Repository**.
 
 ---
