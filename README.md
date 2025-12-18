@@ -1,7 +1,9 @@
 # -_servicio_rest_en_javaSpringBoot_con_oracle_database_19C :.
 # Servicio REST en Java (Spring Boot) con Oracle Database 19c .
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cd4e06b5-e9f2-408a-ad34-77d26fc3b374" />  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cd4e06b5-e9f2-408a-ad34-77d26fc3b374" /> 
+
+<img width="2553" height="1079" alt="image" src="https://github.com/user-attachments/assets/f4126f41-d7b6-428b-9d1b-d79a136f7cff" /> 
 
 Solución **completa, profesional y lista para ejecutar en IntelliJ IDEA**, que implementa un **servicio REST empresarial** con persistencia en **Oracle Database 19c** mediante **Stored Procedure**, siguiendo una arquitectura estándar **Controller – Service – Repository**.
 
