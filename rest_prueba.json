@@ -1,0 +1,13 @@
+{
+  "cliente": {
+    "idCliente": 1,
+    "nombre": "Juan Pérez",
+    "email": "juan.perez@email.com"
+  },
+  "producto": {
+    "idProducto": 101,
+    "nombre": "Laptop",
+    "precio": 3500000
+  },
+  "detalleProducto": "Laptop gamer 16GB RAM"
+}
